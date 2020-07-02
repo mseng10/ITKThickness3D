@@ -3,6 +3,8 @@ ITKThickness3D
 
 **An ITK module to compute 3D thickness**
 
+.. image:: https://github.com/InsightSoftwareConsortium/ITKThickness3D/workflows/Build,%20test,%20package/badge.svg
+
 .. |Azure| image:: https://dev.azure.com/InsightSoftwareConsortium/ITKModules/_apis/build/status/InsightSoftwareConsortium.ITKThickness3D?branchName=master
     :target: https://dev.azure.com/InsightSoftwareConsortium/ITKModules/_build/latest?definitionId=17&branchName=master
     :alt:    Build Status
